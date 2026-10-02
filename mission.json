@@ -1,0 +1,13 @@
+{
+  "name": "Starship Flight 14 \u00b7 Starlink 31-1",
+  "launch_date": "2026-09-28",
+  "generation": "V3",
+  "launch_sites": [],
+  "international_designator": "2026-225",
+  "source": "https://www.spacex.com/launches",
+  "membership_note": "Launch 2026-225 \u00b7 Starlink Group 31-1 \u00b7 September 28, 2026. Supplemental source IDs remain provisional until catalog reconciliation.",
+  "supplemental_files": [
+    "starlink-g31-1"
+  ],
+  "launch_identity_source": "https://planet4589.com/space/gcat/data/cat/satcat700M.html"
+}

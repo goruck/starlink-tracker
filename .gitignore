@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.installed
+.agents/
+.codex/
+*.sqlite3
+*.sqlite3-*
+*.docx
+.env
